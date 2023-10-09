@@ -1,0 +1,53 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #331059;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #331059;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover
+.nav-produtos .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: 'Pacifico', cursive;
+}
+
+#sobre, #produtos {
+    background-color: #ffeae6;
+}
+
+.text-colored {
+    color: #331059;
+}
+
+.nav-produtos .nav-link.active {
+    background-color:#331059;
+    color: #fff;
+}
+
+.nav-produtos .nav-link:hover {
+    color: #331059;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
